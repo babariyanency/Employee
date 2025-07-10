@@ -1,0 +1,15 @@
+.font {
+    font-size: 18px;
+}
+
+.navcolor {
+    color: rgb(58, 134, 255) !important;
+}
+.mybtn{
+    background-color: rgb(54, 51, 238);
+    color: white;
+    &:hover{
+        background-color: rgb(58, 134, 255);
+        color: white;
+    }
+}
